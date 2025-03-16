@@ -2,7 +2,8 @@
 
 A powerful tool for recovering XRPL wallet seeds when you have partial information. This tool supports both family seeds and mnemonic recovery.
 
-![Seed Recovery Tool](screenshot.png)
+![Brute](https://github.com/user-attachments/assets/9fd07e1e-4b6e-4bf2-95be-83801e5fcb93)
+
 
 ## Purpose
 
